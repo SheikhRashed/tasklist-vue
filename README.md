@@ -1,7 +1,56 @@
-# Vue 3 + Vite
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+# Task List 
 
-## Recommended IDE Setup
+![App Screenshot](https://i.ibb.co/N1jH8f6/Screenshot-5.png)
 
-- [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
+Basically I'm learning Vue js framework from last few days. and started following tutorial project . and this project is one of them. I modified User UI and extra features that' you will show on here. I hope you will like it. You can use this project for practice 
+## Technology Used
+
+- Vue Js
+- Tailwind Css
+
+
+## Installation
+
+Install my-project with yarn
+
+```bash
+  git clone https://github.com/SheikhRashed/tasklist-vue.git
+  
+  cd tasklist-vue
+  
+  code .
+
+  yarn 
+
+  yarn dev 
+```
+Install my-project with npm
+
+```bash
+  git clone https://github.com/SheikhRashed/tasklist-vue.git
+  
+  cd tasklist-vue
+  
+  code .
+
+  npm install 
+
+  npm run dev 
+```
+    
+## Authors
+
+- [@Maximilian Schwarzmüller](https://www.udemy.com/course/vuejs-2-the-complete-guide/#instructor-1)
+
+- [@SheikhRashed](https://www.udemy.com/course/vuejs-2-the-complete-guide/#instructor-1)
+## Course Link
+
+ - [Vue - The Complete Guide (w/ Router, Vuex, Composition API) ](https://www.udemy.com/course/vuejs-2-the-complete-guide/)
+
+
+## FAQ
+
+#### Can I use this project for Practice ? 
+
+- Yes. Absolutely you can 😀
